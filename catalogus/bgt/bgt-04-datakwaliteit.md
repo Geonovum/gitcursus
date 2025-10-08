@@ -1,6 +1,6 @@
 Datakwaliteit
 =============
-
+besloten is geen kwaliteiteisen meer aan de BGT te stellen.
 De BGT kent een normkwaliteit en een gerealiseerde kwaliteit. De normkwaliteit
 geldt in principe generiek en per object. De gerealiseerde kwaliteit geldt
 uitsluitend per plaatsbepalingspunt.
