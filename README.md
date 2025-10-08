@@ -2,4 +2,4 @@
 Repo voor het geven van Git cursus.
 
 ## Nieuw hoofdstuk
-Blabla
+Wat bedoel je met blablabla
