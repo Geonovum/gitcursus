@@ -9,6 +9,9 @@
   <element name="OndersteunendWegdeel" substitutionGroup="gml:_Feature" type="imgeo-s:OndersteunendWegdeelType">
     <annotation>
       <documentation>OndersteunendWegdeel: Een deel van de weg dat niet primair bedoeld is voor gebruik door het verkeer.</documentation>
+    
+    <!--ik vind dat toch niet duidelijk genoeg-->
+    
     </annotation>
   </element>
   <complexType name="OndersteunendWegdeelType">
