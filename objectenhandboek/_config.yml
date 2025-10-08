@@ -1,0 +1,50 @@
+title: IMGeo objectenhandboek
+lang: nl
+description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
+# remote_theme: rundocs/jekyll-rtd-theme 
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+breadcrumbs: false
+
+baseurl: /IMGeo-dev/objectenhandboek
+ 
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+
+
+script: |
+  console.log("Laden IMGeo objectenhandboek...")
+
+scss: |
+  .wy-nav-content-wrap{background:#fcfcfc}
+  .wy-nav-content-wrap .wy-nav-content{max-width:none}
+
+# theme: jekyll-theme-minimal
+
+collections:
+    tekstfragmenten:
+        output: false
+        permalink: /:collection/:path
+    hoofdstukken:
+        output: true
+        permalink: /:collection/:path
+
+# https://github.com/benbalter/jekyll-relative-links
+relative_links:
+    enabled: true
+    collections: true
+
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
