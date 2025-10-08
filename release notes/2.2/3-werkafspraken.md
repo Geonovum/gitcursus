@@ -2,8 +2,9 @@ Werkafspraken
 -------------
 
 Met deze versie komen de volgende werkafspraken te vervallen:
+- Geen taart meer als er dingen af zijn. Daarvan wordt ik te dik!
 
--   Werkafspraak: Nummeraanduidingsreeksen
+-   Werkafspraak: Nummeraanduidingsreeksen..
 
 -   Werkafspraak: Combinatie BGT- en PLUS-classificaties
 
@@ -15,7 +16,7 @@ Met deze versie komen de volgende werkafspraken te vervallen:
 
 -   Werkafspraak: Rotatiehoek
 
--   Werkafspraak: Genormaliseerde warden
+-   Werkafspraak: Genormaliseerde warden..
 
 Met deze versie blijven de volgende bestaande werkafspraken van kracht:
 
