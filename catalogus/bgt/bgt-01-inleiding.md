@@ -6,7 +6,7 @@ informatie moet worden vastgelegd, zodat landelijk uitwisseling van deze
 informatie mogelijk is. IMGeo bestaat uit een verplicht deel, te weten de BGT,
 en een optioneel deel, te weten de plus- en beheertopografie.
 
-In 2007 is versie 1.0 van IMGeo vastgesteld. Het informatiemodel voor de
+In 2012 is versie 1.0 van IMGeo vastgesteld. Het informatiemodel voor de
 Basisregistratie Grootschalige Topografie (BGT) is vervolgens in samenhang met
 IMGeo ontwikkeld. In februari 2012 is versie 2.0 van IMGeo vastgesteld, waarin
 het informatiemodel BGT in zijn geheel is opgenomen. IMGeo bevat meer detail dan
